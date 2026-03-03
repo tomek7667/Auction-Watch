@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Auction Watch
+## Author: tomek7667
+## Notes: Gather information about auction
+## Version: 1.0.0
+
+auction-watch.lua
